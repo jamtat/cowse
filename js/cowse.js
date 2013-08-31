@@ -45,7 +45,7 @@ detail = {
 	Newson: 'The mega cow of the group. Master of dance and quick to snatch up a good bargain.',
 	Moore: 'Theologian and well respected laureate. Can often be found in neighbouring Jaymoria.',
 	Tattersley: 'Currently employed by many tech companies. Can code anything for a reasonable price.',
-	Milne: 'Never far from his beloved Asha. Will most likely be found mid song with a comb in his \'fro.',
+	Milne: 'Never found far from his beloved Asha. Will most likely be found mid song with a comb in his \'fro.',
 	Rudd: 'The mysterious party animal, not much is known about the castled one except that he enjoys a stiff drink.'
 }
 
